@@ -1,0 +1,12 @@
+`dlinkcontrol` allows you to control your D-Link "DWM-222 4G LTE USB Adapter"
+from the command line.
+
+It provides the following features:
+
+* read the ICCID (SIM unique identification number)
+* unlock the SIM
+* reset SIM's PIN (WARNING: This feature is UNTESTED!)
+* retrieve ISP's provided DNS servers
+* read, write and delete Short Messages (SMS)
+* start and stop 3G/4G connection
+* keep count of the transferred bytes
